@@ -1,6 +1,7 @@
 # Robust Multi-Source COVID-19 Detection in CT Images
-
-
+<p align="center">
+the paper is accepted by 3rd Workshop on New Trends in AI-Generated Media and Security (AIMS) @ CVPR 2026
+</p>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper"></a>
   <a href="#pretrained-weights"><img src="https://img.shields.io/badge/Weights-Checkpoint-blue" alt="Weights"></a>
