@@ -18,7 +18,7 @@ the paper is accepted by 3rd Workshop on New Trends in AI-Generated Media and Se
   <a href="#citation">[Citation]</a>
 </p>
 
-> **Asmita Yuki Pritha**\*, **Jason Xu**\*, **Daniel Ding**\*, **Justin Li**\*, Aryana Hou, Xin Wang, Shu Hu†
+> **Asmita Yuki Pritha**\*, **Jason Xu**\*, **Daniel Ding**\*, **Justin Li**\*, **Aryana Hou**\*, Xin Wang, Shu Hu†
 >
 > *Equal contribution, †Corresponding author
 >
