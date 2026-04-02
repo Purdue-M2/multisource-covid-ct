@@ -38,7 +38,7 @@ We propose a multi-task learning framework that pairs binary COVID-19 diagnosis 
 
 | Configuration | γ | F1 | AUC | Accuracy | Competition Score |
 |:---|:---:|:---:|:---:|:---:|:---:|
-| Baseline (BCE only) | — | 0.8915 | 0.9627 | — | 0.8008 |
+| Baseline (BCE only) | — | 0.8915 | 0.9627 | 0.9091 | 0.8008 |
 | Multi-task + CE | 1.0 | 0.8930 | 0.9715 | 0.9058 | 0.7942 |
 | Multi-task + LA | 0.1 | 0.8861 | 0.9656 | 0.9123 | 0.7988 |
 | Multi-task + LA | 0.2 | 0.8794 | 0.9561 | 0.8994 | 0.7850 |
